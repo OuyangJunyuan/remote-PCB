@@ -1,0 +1,14 @@
+rfx24l01c
+TXEN=1的时候是PA
+TXEN=0,RXEN=1的时候是LNA
+而且输入输出做了50欧姆匹配
+
+
+LED需要10mA以上电流
+用门电路要用低电平点亮
+
+74HCT32 CD74ACT32  4071BP  2输入4或门CMOS
+
+   CD4081  	2输入4与门CMOS
+
+CD4011  2输入4与非门CMOS

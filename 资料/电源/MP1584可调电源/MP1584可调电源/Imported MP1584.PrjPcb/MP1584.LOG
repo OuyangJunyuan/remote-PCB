@@ -1,0 +1,47 @@
+Importer Log Report
+Project : MP1584.PrjPcb
+
+Section : Document - E:\PCB\MP1584可调电源\MP1584.asc
+    Section : Load Messages
+    EndSection
+
+    Section : Import Messages
+        Error   : No comment found for component: $$$1
+        Error   : No designator found for component: @1
+        Error   : No comment found for component: @1
+        Error   : No designator found for component: @10
+        Error   : No comment found for component: @10
+        Error   : No designator found for component: @11
+        Error   : No comment found for component: @11
+        Error   : No designator found for component: @12
+        Error   : No comment found for component: @12
+        Error   : No designator found for component: @13
+        Error   : No comment found for component: @13
+        Error   : No designator found for component: @3
+        Error   : No comment found for component: @3
+        Error   : No designator found for component: @4
+        Error   : No comment found for component: @4
+        Error   : No designator found for component: @5
+        Error   : No comment found for component: @5
+        Error   : No designator found for component: @6
+        Error   : No comment found for component: @6
+        Error   : No designator found for component: @7
+        Error   : No comment found for component: @7
+        Error   : No designator found for component: @8
+        Error   : No comment found for component: @8
+        Error   : No designator found for component: @9
+        Error   : No comment found for component: @9
+        Error   : No comment found for component: C1
+        Error   : No comment found for component: C2
+        Error   : No comment found for component: C3
+        Error   : No comment found for component: C4
+        Error   : No comment found for component: C5
+        Error   : No comment found for component: C6
+        Error   : No comment found for component: R1
+        Error   : No comment found for component: R2
+        Error   : No comment found for component: R3
+        Error   : No comment found for component: R4
+        Error   : No comment found for component: R5
+        Error   : No comment found for component: U1
+    EndSection
+EndSection

@@ -1,0 +1,46 @@
+Altium Designer Pick and Place Locations
+D:\Software\ALTIUM_DESIGNER\PROJECT\stm32f103c8t6\stm32f103c8t6\Project Outputs for stm32f103c8t6\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       29/06/19
+Time:       15:17
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer    Footprint      Center-X(mil) Center-Y(mil) Rotation Description                  
+SPI        "Header 4H"   TopLayer HDR1X4H        1780.000      702.213       90       "Header, 4-Pin, Right Angle" 
+P6         "Header 2"    TopLayer HDR-1X2_H      1790.000      145.685       90       "Header, 2-Pin"              
+U1         AMS1117-3.3   TopLayer AMS1117        620.000       1324.999      270      ""                           
+MPU1       STM32F103C8T6 TopLayer stm32f103c8t6  1360.000      790.000       360      ""                           
+P8         "Header 6"    TopLayer HDR1X6         1665.000      1220.000      90       "Header, 6-Pin"              
+C2         20pf          TopLayer 0603-C         1070.000      860.000       90       ""                           
+Y1         8MHz          TopLayer XTAL           915.000       1091.064      180      ""                           
+P9         "Header 8"    TopLayer HDR1X8         1665.000      445.685       90       "Header, 8-Pin"              
+P2         "Header 4"    TopLayer HDR1X4         1360.000      1200.000      180      "Header, 4-Pin"              
+P5         "Header 4"    TopLayer HDR1X4         1395.000      95.000        360      "Header, 4-Pin"              
+P7         "Header 2"    TopLayer TX60PW-F20     548.110       824.252       270      "Header, 2-Pin"              
+Y2         32.768K       TopLayer SMD8038-4      1207.756      1412.992      360      ""                           
+S1         SS-12F23      TopLayer SS-12D10       860.000       165.000       360      1路波动开关                       
+RESET1     KEY_M         TopLayer TSW_SMD-6*6*11 408.583       251.772       90       ""                           
+R7         10K           TopLayer 0603-R         950.000       351.312       180      ""                           
+R3         100K          TopLayer 0603-R         1073.937      496.496       270      ""                           
+R2         100K          TopLayer 0603-R         1073.504      663.504       270      ""                           
+R1         1K            TopLayer 0603-R         800.000       350.000       180      ""                           
+POWER2     "Header 3X2"  TopLayer HDR-3X2        110.000       1390.000      270      "Header, 3-Pin, Dual row"    
+POWER1     "Header 3X2"  TopLayer HDR-3X2        110.000       245.000       270      "Header, 3-Pin, Dual row"    
+P4         "Header 4"    TopLayer HDR1X4         1395.000      215.000       180      "Header, 4-Pin"              
+P1         "Header 3X2"  TopLayer HDR2X3         923.242       620.000       90       "Header, 3-Pin, Dual row"    
+LED1       红色            TopLayer LED_0603W      654.603       348.681       180      贴片LED                        
+J1         PIN4          TopLayer HDR-1X4_H      1780.000      1310.000      90       ""                           
+C10        0.1uf         TopLayer 0603-C         1550.528      565.000       270      ""                           
+C9         20pf          TopLayer 0603-C         946.023       1485.000      360      ""                           
+C8         20pf          TopLayer 0603-C         946.023       1395.000      360      ""                           
+C7         0.1uf         TopLayer 0603-C         1085.748      351.312       360      ""                           
+C6         10uf          TopLayer 0603-C         340.000       1450.000      180      ""                           
+C5         0.1uf         TopLayer 0603-C         340.000       1370.000      180      ""                           
+C4         10uf          TopLayer 0603-C         338.504       1295.000      360      ""                           
+C3         0.1uf         TopLayer 0603-C         340.000       1210.000      360      ""                           
+C1         20pf          TopLayer 0603-C         1065.000      1016.772      90       ""                           
